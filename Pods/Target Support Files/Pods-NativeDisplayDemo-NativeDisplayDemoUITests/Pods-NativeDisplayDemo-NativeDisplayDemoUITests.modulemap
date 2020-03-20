@@ -1,0 +1,6 @@
+framework module Pods_NativeDisplayDemo_NativeDisplayDemoUITests {
+  umbrella header "Pods-NativeDisplayDemo-NativeDisplayDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
